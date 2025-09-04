@@ -37,7 +37,7 @@ CS1C/
 │   │   ├── Entry.cpp
 │   │   └── main.cpp
 │   ├── docs/
-│   │   └── Project1-AddressBook.pdf
+│   │   └── Project1-Address-Book.pdf
 │   └── output/
 │       └── output.txt
 ├── project2-library-system/
@@ -54,7 +54,7 @@ CS1C/
 │   │   ├── Magazine.cpp
 │   │   └── main.cpp
 │   ├── docs/
-│   │   └── Project2-LibrarySystem.pdf
+│   │   └── Project2-Library-Inventory-System.pdf
 │   └── output/
 │       └── output.txt
 └── project3-pos-system/

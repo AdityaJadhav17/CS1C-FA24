@@ -1,5 +1,6 @@
 # CS1C - Advanced C++ Programming Concepts
 
+[![License](https://img.shields.io/badge/license-MIT-informational)](./LICENSE)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 

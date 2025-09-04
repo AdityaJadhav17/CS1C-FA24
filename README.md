@@ -31,45 +31,16 @@ CS1C/
 ├── .gitignore
 ├── project1-address-book/
 │   ├── src/
-│   │   ├── AddressBook.h
-│   │   ├── AddressBook.cpp
-│   │   ├── Entry.h
-│   │   ├── Entry.cpp
-│   │   └── main.cpp
 │   ├── docs/
-│   │   └── Project1-Address-Book.pdf
 │   └── output/
-│       └── output.txt
 ├── project2-library-system/
 │   ├── src/
-│   │   ├── LibraryStorage.h
-│   │   ├── LibraryStorage.cpp
-│   │   ├── Item.h
-│   │   ├── Item.cpp
-│   │   ├── Book.h
-│   │   ├── Book.cpp
-│   │   ├── Movie.h
-│   │   ├── Movie.cpp
-│   │   ├── Magazine.h
-│   │   ├── Magazine.cpp
-│   │   └── main.cpp
 │   ├── docs/
-│   │   └── Project2-Library-Inventory-System.pdf
 │   └── output/
-│       └── output.txt
 └── project3-pos-system/
     ├── src/
-    │   ├── MenuItem.h
-    │   ├── MenuItem.cpp
-    │   ├── Order.h
-    │   ├── Order.cpp
-    │   ├── POSSystem.h
-    │   ├── POSSystem.cpp
-    │   └── main.cpp
     ├── docs/
-    │   ├── Project3-PosSystem.pdf
     └── output/
-        └── output.txt
 ```
 
 ## 🔬 Project Descriptions

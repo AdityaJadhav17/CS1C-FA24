@@ -1,0 +1,45 @@
+--- Adding Items to Storage ---
+Shelf 1, Compartment 1: Book: Atomic Habits, Author: James Clear, Copyright Date:
+2018, Name: B101, Description: A self-help book on building habits, ID: BK001
+Shelf 2, Compartment 6: Movie: Avengers: Endgame, Director: Anthony and Joe Russo,
+Main Actors: Robert Downey Jr. Chris Evans , Name: M101, Description: A superhero
+blockbuster movie, ID: MV001
+Shelf 3, Compartment 11: Magazine: December 2024, Main Article: AI in Everyday
+Life, Name: MG101, Description: Exploring the future of AI, ID: MGZ001
+
+--- Checking Out an Item ---
+Checking out 'Atomic Habits' from Shelf 1, Compartment 1.
+Checked-out item: Book: Atomic Habits, Author: James Clear, Copyright Date: 2018,
+Name: B101, Description: A self-help book on building habits, ID: BK001
+Checked out by: Ben Affleck, Due Date: 11/15/2024
+
+--- Checking In an Item ---
+Checking in 'Atomic Habits' back to Shelf 1, Compartment 1.
+Shelf 1, Compartment 1: Book: Atomic Habits, Author: James Clear, Copyright Date:
+2018, Name: B101, Description: A self-help book on building habits, ID: BK001
+Shelf 2, Compartment 6: Movie: Avengers: Endgame, Director: Anthony and Joe Russo,
+Main Actors: Robert Downey Jr. Chris Evans , Name: M101, Description: A superhero
+blockbuster movie, ID: MV001
+Shelf 3, Compartment 11: Magazine: December 2024, Main Article: AI in Everyday
+Life, Name: MG101, Description: Exploring the future of AI, ID: MGZ001
+
+--- Swapping Items ---
+Swapping items between Shelf 1, Compartment 1 and Shelf 2, Compartment 6.
+Shelf 1, Compartment 1: Movie: Avengers: Endgame, Director: Anthony and Joe Russo,
+Main Actors: Robert Downey Jr. Chris Evans , Name: M101, Description: A superhero
+blockbuster movie, ID: MV001
+Shelf 2, Compartment 6: Book: Atomic Habits, Author: James Clear, Copyright Date:
+2018, Name: B101, Description: A self-help book on building habits, ID: BK001
+Shelf 3, Compartment 11: Magazine: December 2024, Main Article: AI in Everyday
+Life, Name: MG101, Description: Exploring the future of AI, ID: MGZ001
+
+--- Error Handling for Swapping ---
+Attempting to swap an item with an empty compartment (Shelf 3, Compartment 15).
+Expected Error: Cannot swap empty compartments.
+Shelf 1, Compartment 1: Movie: Avengers: Endgame, Director: Anthony and Joe Russo,
+Main Actors: Robert Downey Jr. Chris Evans , Name: M101, Description: A superhero
+blockbuster movie, ID: MV001
+Shelf 2, Compartment 6: Book: Atomic Habits, Author: James Clear, Copyright Date:
+2018, Name: B101, Description: A self-help book on building habits, ID: BK001
+Shelf 3, Compartment 11: Magazine: December 2024, Main Article: AI in Everyday
+Life, Name: MG101, Description: Exploring the future of AI, ID: MGZ001

@@ -1,0 +1,63 @@
+------Address Book------
+Size: 3
+John Doe
+123-456-7890
+john@doe.com
+
+Jane Doe
+451-231-2312
+jane@doe.com
+
+Patrick Jones
+234-231-2312
+patrick@gmail.com
+
+------------------------
+------Address Book------
+Size: 4
+
+John Doe
+123-456-7890
+john@doe.com
+
+Jane Doe
+451-231-2312
+jane@doe.com
+
+Patrick Jones
+234-231-2312
+patrick@gmail.com
+
+Patrick Jones
+234-231-2312
+patrick@gmail.com
+
+------------------------
+------Address Book------
+Size: 6
+
+John Doe
+123-456-7890
+john@doe.com
+
+Jane Doe
+451-231-2312
+jane@doe.com
+
+Patrick Jones
+234-231-2312
+patrick@gmail.com
+
+John Doe
+123-456-7890
+john@doe.com
+
+Jane Doe
+451-231-2312
+jane@doe.com
+
+Patrick Jones
+234-231-2312
+patrick@gmail.com
+
+------------------------

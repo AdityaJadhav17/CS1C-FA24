@@ -5,7 +5,7 @@
 
 ## 📋 Course Overview
 
-This repository contains coursework for CS1C - Advanced Data Structures and Algorithms in C++. The course focuses on advanced C++ programming concepts, object-oriented design principles, and practical implementation of complex systems using modern C++ techniques.
+This repository contains coursework for CS1C - Advanced C++ Programming Concepts. The course focuses on advanced C++ programming concepts, object-oriented design principles, and practical implementation of complex systems using modern C++ techniques.
 
 ## 🎯 Learning Objectives
 
@@ -29,20 +29,18 @@ CS1C/
 ├── README.md
 ├── LICENSE
 ├── .gitignore
-├── docs/
-    ├── Exam1-AddressBook.pdf
-    ├── Exam2-LibraryInventory.pdf
-    ├── Exam3-PointOfSale.pdf
-├── exam1-address-book/
+├── project1-address-book/
 │   ├── src/
-│   │   ├── AddressBook.cpp
 │   │   ├── AddressBook.h
-│   │   ├── Entry.cpp
+│   │   ├── AddressBook.cpp
 │   │   ├── Entry.h
+│   │   ├── Entry.cpp
 │   │   └── main.cpp
+│   ├── docs/
+│   │   └── Project1-AddressBook.pdf
 │   └── output/
 │       └── output.txt
-├── exam2-library-system/
+├── project2-library-system/
 │   ├── src/
 │   │   ├── LibraryStorage.h
 │   │   ├── LibraryStorage.cpp
@@ -55,9 +53,11 @@ CS1C/
 │   │   ├── Magazine.h
 │   │   ├── Magazine.cpp
 │   │   └── main.cpp
+│   ├── docs/
+│   │   └── Project2-LibrarySystem.pdf
 │   └── output/
 │       └── output.txt
-└── exam3-pos-system/
+└── project3-pos-system/
     ├── src/
     │   ├── MenuItem.h
     │   ├── MenuItem.cpp
@@ -66,7 +66,8 @@ CS1C/
     │   ├── POSSystem.h
     │   ├── POSSystem.cpp
     │   └── main.cpp
-    │   ├── write-up.pdf
+    ├── docs/
+    │   ├── Project3-PosSystem.pdf
     └── output/
         └── output.txt
 ```
